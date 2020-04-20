@@ -47,7 +47,7 @@ async function HTMLRewriterHandler(oldResponse) {
 
   return newResponse;
 }
-
+ 
 async function handleRequest(request) {
   let link
   if (!link) {
