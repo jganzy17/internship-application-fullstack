@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "jganzyproject"
 type = "javascript"
-account_id = ""
+account_id = "40eb7f1fdcecb4dda8cc95139d29dc7b"
 workers_dev = true
 route = ""
 zone_id = ""
